@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 I’m Dwi Prakoso, you can call me Dwi<br>🔭 I live in Semarang, Jawa Tengah, Indonesia<br>🌱 I’m currently learning Web Developer<br>⚡ Freshgraduate Information Engineering Student<br>
+💬 I’m Dwi Prakoso, you can call me Dwi<br>🔭 I live in Semarang, Jawa Tengah, Indonesia<br>🌱 I’m currently learning Backend Developer<br>⚡ Freshgraduate Information Engineering Student<br>
 
 
 # 💻 Tech Stack:
